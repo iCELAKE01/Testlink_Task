@@ -46,3 +46,29 @@ The project requires the following Python libraries:
 
 
 You can install them using `pip`:
+
+3. Run the Colab notebook:
+   Open the `student_performance_analysis.ipynb` notebook in Google Colab and run all cells.
+
+
+
+## Results
+
+The project provides the following outputs:
+
+- Overall test accuracy.
+- List of weak topics with mistake percentages.
+- Personalized recommendations for improvement.
+- Model performance metrics (Mean Absolute Error, R^2 Score).
+- Visualizations of accuracy and speed trends, topic-wise performance, and accuracy distribution.
+
+
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
